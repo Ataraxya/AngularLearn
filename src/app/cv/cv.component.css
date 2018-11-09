@@ -60,3 +60,8 @@ background-color:gray;
 	height:20px;
 	background: black;
 }
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
